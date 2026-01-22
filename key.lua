@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/TUOUSERNAME/starhub/main/key.lua
+https://raw.githubusercontent.com/Fajaco/starhub/main/key.lua
